@@ -1,0 +1,284 @@
+[
+  {
+    "ContainingType": "Escuela.API.Controllers.AlumnoController",
+    "Method": "Actualiza",
+    "RelativePath": "api/Alumno/Actualiza",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entAlumno",
+        "Type": "Escuela.Modelos.Alumno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.AlumnoController",
+    "Method": "Consulta",
+    "RelativePath": "api/Alumno/Consulta/{idAlumno}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAlumno",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.AlumnoController",
+    "Method": "Elimina",
+    "RelativePath": "api/Alumno/Elimina/{idAlumno}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idAlumno",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.AlumnoController",
+    "Method": "Inserta",
+    "RelativePath": "api/Alumno/Inserta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entAlumno",
+        "Type": "Escuela.Modelos.Alumno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.EscuelaController",
+    "Method": "Actualiza",
+    "RelativePath": "api/Escuela/Actualiza",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entEscuela",
+        "Type": "Escuela.Modelos.Escuela",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.EscuelaController",
+    "Method": "Consulta",
+    "RelativePath": "api/Escuela/Consulta/{idEscuela}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEscuela",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.EscuelaController",
+    "Method": "Elimina",
+    "RelativePath": "api/Escuela/Elimina/{IdEscuela}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdEscuela",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.EscuelaController",
+    "Method": "Inserta",
+    "RelativePath": "api/Escuela/Inserta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entEscuela",
+        "Type": "Escuela.Modelos.Escuela",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.EscuelaProfesorController",
+    "Method": "Consulta",
+    "RelativePath": "api/EscuelaProfesor/Consulta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.EscuelaProfesorController",
+    "Method": "Inserta",
+    "RelativePath": "api/EscuelaProfesor/Inserta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entEscProf",
+        "Type": "Escuela.Modelos.EscuelaProfesor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.InscripcionController",
+    "Method": "Consulta",
+    "RelativePath": "api/Inscripcion/Consulta/{idInscripcion}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idInscripcion",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.InscripcionController",
+    "Method": "Inserta",
+    "RelativePath": "api/Inscripcion/Inserta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entInscripcion",
+        "Type": "Escuela.Modelos.Inscripcion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.ProfesorController",
+    "Method": "Actualiza",
+    "RelativePath": "api/Profesor/Actualiza",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entProfesor",
+        "Type": "Escuela.Modelos.Profesor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.ProfesorController",
+    "Method": "Consulta",
+    "RelativePath": "api/Profesor/Consulta/{idProfesor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProfesor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.ProfesorController",
+    "Method": "Elimina",
+    "RelativePath": "api/Profesor/Elimina/{idProfesor}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProfesor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.ProfesorController",
+    "Method": "Inserta",
+    "RelativePath": "api/Profesor/Inserta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entProfesor",
+        "Type": "Escuela.Modelos.Profesor",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.ProfesorAlumnoController",
+    "Method": "Consulta",
+    "RelativePath": "api/ProfesorAlumno/Consulta/{idProfesor}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idProfesor",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Escuela.API.Controllers.ProfesorAlumnoController",
+    "Method": "Inserta",
+    "RelativePath": "api/ProfesorAlumno/Inserta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entProfesorAlumno",
+        "Type": "Escuela.Modelos.ProfesorAlumno",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

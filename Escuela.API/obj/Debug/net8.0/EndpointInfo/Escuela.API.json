@@ -1,0 +1,673 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Escuela.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Alumno/Consulta/{idAlumno}": {
+      "get": {
+        "tags": [
+          "Alumno"
+        ],
+        "parameters": [
+          {
+            "name": "idAlumno",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Alumno/Inserta": {
+      "post": {
+        "tags": [
+          "Alumno"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Alumno"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Alumno"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Alumno"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Alumno/Actualiza": {
+      "put": {
+        "tags": [
+          "Alumno"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Alumno"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Alumno"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Alumno"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Alumno/Elimina/{idAlumno}": {
+      "delete": {
+        "tags": [
+          "Alumno"
+        ],
+        "parameters": [
+          {
+            "name": "idAlumno",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Escuela/Consulta/{idEscuela}": {
+      "get": {
+        "tags": [
+          "Escuela"
+        ],
+        "parameters": [
+          {
+            "name": "idEscuela",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Escuela/Inserta": {
+      "post": {
+        "tags": [
+          "Escuela"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Escuela"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Escuela"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Escuela"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Escuela/Actualiza": {
+      "put": {
+        "tags": [
+          "Escuela"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Escuela"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Escuela"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Escuela"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Escuela/Elimina/{IdEscuela}": {
+      "delete": {
+        "tags": [
+          "Escuela"
+        ],
+        "parameters": [
+          {
+            "name": "IdEscuela",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/EscuelaProfesor/Consulta": {
+      "get": {
+        "tags": [
+          "EscuelaProfesor"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/EscuelaProfesor/Inserta": {
+      "post": {
+        "tags": [
+          "EscuelaProfesor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EscuelaProfesor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/EscuelaProfesor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/EscuelaProfesor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Inscripcion/Consulta/{idInscripcion}": {
+      "get": {
+        "tags": [
+          "Inscripcion"
+        ],
+        "parameters": [
+          {
+            "name": "idInscripcion",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Inscripcion/Inserta": {
+      "post": {
+        "tags": [
+          "Inscripcion"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Inscripcion"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Inscripcion"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Inscripcion"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Profesor/Consulta/{idProfesor}": {
+      "get": {
+        "tags": [
+          "Profesor"
+        ],
+        "parameters": [
+          {
+            "name": "idProfesor",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Profesor/Inserta": {
+      "post": {
+        "tags": [
+          "Profesor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Profesor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Profesor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Profesor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Profesor/Actualiza": {
+      "post": {
+        "tags": [
+          "Profesor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Profesor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Profesor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Profesor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Profesor/Elimina/{idProfesor}": {
+      "delete": {
+        "tags": [
+          "Profesor"
+        ],
+        "parameters": [
+          {
+            "name": "idProfesor",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ProfesorAlumno/Consulta/{idProfesor}": {
+      "get": {
+        "tags": [
+          "ProfesorAlumno"
+        ],
+        "parameters": [
+          {
+            "name": "idProfesor",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ProfesorAlumno/Inserta": {
+      "post": {
+        "tags": [
+          "ProfesorAlumno"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProfesorAlumno"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProfesorAlumno"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProfesorAlumno"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Alumno": {
+        "required": [
+          "apellido",
+          "fechaNacimiento",
+          "matricula",
+          "nombre"
+        ],
+        "type": "object",
+        "properties": {
+          "idAlumno": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "apellido": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "fechaNacimiento": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "matricula": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Escuela": {
+        "required": [
+          "codigo",
+          "descripcion",
+          "nombre"
+        ],
+        "type": "object",
+        "properties": {
+          "idEscuela": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "descripcion": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "codigo": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "EscuelaProfesor": {
+        "type": "object",
+        "properties": {
+          "idEscuelaProf": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idEscuela": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idProfesor": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "lstEscuela": {
+            "$ref": "#/components/schemas/Escuela"
+          },
+          "lstProfesor": {
+            "$ref": "#/components/schemas/Profesor"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          },
+          "lstAlumno": {
+            "$ref": "#/components/schemas/Alumno"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Inscripcion": {
+        "type": "object",
+        "properties": {
+          "idInscripcion": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idEscuela": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idAlumno": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "lstEscuela": {
+            "$ref": "#/components/schemas/Escuela"
+          },
+          "lstAlumno": {
+            "$ref": "#/components/schemas/Alumno"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Profesor": {
+        "required": [
+          "apellido",
+          "dni",
+          "nombre"
+        ],
+        "type": "object",
+        "properties": {
+          "idProfesor": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "nombre": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "apellido": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "dni": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProfesorAlumno": {
+        "type": "object",
+        "properties": {
+          "idProfAlum": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idProfesor": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "idInscripcion": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "lstProfesor": {
+            "$ref": "#/components/schemas/Profesor"
+          },
+          "lstInscripcion": {
+            "$ref": "#/components/schemas/Inscripcion"
+          },
+          "mensaje": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
