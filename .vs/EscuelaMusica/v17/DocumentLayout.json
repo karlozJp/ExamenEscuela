@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|c:\\users\\carl4\\onedrive\\documentos\\cursoscodigo\\consultora\\escuelamusica\\escuela.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|solutionrelative:escuela.accesodatos\\data\\repository\\contenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|c:\\users\\carl4\\onedrive\\documentos\\cursoscodigo\\consultora\\escuelamusica\\escuela.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|solutionrelative:escuela.accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|c:\\users\\carl4\\onedrive\\documentos\\cursoscodigo\\consultora\\escuelamusica\\escuela.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|solutionrelative:escuela.accesodatos\\data\\repository\\irepository\\icontenedortrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|c:\\users\\carl4\\onedrive\\documentos\\cursoscodigo\\consultora\\escuelamusica\\escuela.accesodatos\\data\\repository\\profesoralumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|solutionrelative:escuela.accesodatos\\data\\repository\\profesoralumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|c:\\users\\carl4\\onedrive\\documentos\\cursoscodigo\\consultora\\escuelamusica\\escuela.accesodatos\\data\\repository\\irepository\\iprofesoralumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E0D8A33-073A-4C8D-BF47-1476EF1FBC93}|Escuela.AccesoDatos\\Escuela.AccesoDatos.csproj|solutionrelative:escuela.accesodatos\\data\\repository\\irepository\\iprofesoralumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EF0BF2-2BFA-4058-AA37-7FC9B88E68EF}|Escuela.API\\Escuela.API.csproj|c:\\users\\carl4\\onedrive\\documentos\\cursoscodigo\\consultora\\escuelamusica\\escuela.api\\controllers\\profesoralumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0EF0BF2-2BFA-4058-AA37-7FC9B88E68EF}|Escuela.API\\Escuela.API.csproj|solutionrelative:escuela.api\\controllers\\profesoralumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 204,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Escuela.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Escuela.AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:05:03.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "Escuela.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "RelativeToolTip": "Escuela.AccesoDatos\\Data\\Repository\\IRepository\\IContenedorTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:04:54.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContenedorTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeDocumentMoniker": "Escuela.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ToolTip": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "RelativeToolTip": "Escuela.AccesoDatos\\Data\\Repository\\ContenedorTrabajo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvxoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T00:04:34.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfesorAlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.API\\Controllers\\ProfesorAlumnoController.cs",
+              "RelativeDocumentMoniker": "Escuela.API\\Controllers\\ProfesorAlumnoController.cs",
+              "ToolTip": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.API\\Controllers\\ProfesorAlumnoController.cs",
+              "RelativeToolTip": "Escuela.API\\Controllers\\ProfesorAlumnoController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:58:04.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfesorAlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\Repository\\ProfesorAlumnoRepository.cs",
+              "RelativeDocumentMoniker": "Escuela.AccesoDatos\\Data\\Repository\\ProfesorAlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\Repository\\ProfesorAlumnoRepository.cs",
+              "RelativeToolTip": "Escuela.AccesoDatos\\Data\\Repository\\ProfesorAlumnoRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAFMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:41:52.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProfesorAlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\Repository\\IRepository\\IProfesorAlumnoRepository.cs",
+              "RelativeDocumentMoniker": "Escuela.AccesoDatos\\Data\\Repository\\IRepository\\IProfesorAlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\carl4\\OneDrive\\Documentos\\CursosCodigo\\Consultora\\EscuelaMusica\\Escuela.AccesoDatos\\Data\\Repository\\IRepository\\IProfesorAlumnoRepository.cs",
+              "RelativeToolTip": "Escuela.AccesoDatos\\Data\\Repository\\IRepository\\IProfesorAlumnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T23:39:10.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

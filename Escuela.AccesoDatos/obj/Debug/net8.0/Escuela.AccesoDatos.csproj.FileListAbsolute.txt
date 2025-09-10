@@ -1,0 +1,17 @@
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\bin\Debug\net8.0\Escuela.AccesoDatos.deps.json
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\bin\Debug\net8.0\Escuela.AccesoDatos.runtimeconfig.json
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\bin\Debug\net8.0\Escuela.AccesoDatos.dll
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\bin\Debug\net8.0\Escuela.AccesoDatos.pdb
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\bin\Debug\net8.0\Escuela.Models.dll
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\bin\Debug\net8.0\Escuela.Models.pdb
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela.AccesoDatos.AssemblyInfo.cs
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela..B3B10CF4.Up2Date
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela.AccesoDatos.dll
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\refint\Escuela.AccesoDatos.dll
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela.AccesoDatos.pdb
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\Escuela.AccesoDatos.genruntimeconfig.cache
+C:\Users\carl4\OneDrive\Documentos\CursosCodigo\Consultora\EscuelaMusica\Escuela.AccesoDatos\obj\Debug\net8.0\ref\Escuela.AccesoDatos.dll
